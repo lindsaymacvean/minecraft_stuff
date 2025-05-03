@@ -24,7 +24,7 @@ curl -L -o "$MODS_DIR/iris.jar" https://cdn.modrinth.com/data/YL57xq9U/versions/
 curl -L -o "$MODS_DIR/sodium-extra.jar" https://cdn.modrinth.com/data/PtjYWJkn/versions/NtvWS1Ei/sodium-extra-0.6.3%2Bmc1.21.5.jar
 
 # Download Complementary Unbound Shader
-curl -L -o "$SHADERPACKS_DIR/ComplementaryUnbound.zip" https://cdn.complementary.dev/downloads/ComplementaryUnbound_r5.5.1.zip
+curl -L -o "$SHADERPACKS_DIR/ComplementaryUnbound.zip" https://cdn.modrinth.com/data/R6NEzAwj/versions/1ng9gVp7/ComplementaryUnbound_r5.5.1.zip
 
 echo "✅ All downloads complete and in place."
 echo "Now launch Minecraft with your Fabric 1.21.5 profile and enjoy!"
